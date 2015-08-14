@@ -159,7 +159,7 @@ class WinFrame(wx.Frame):
                             'cds26.ams9.msecn.net', 'lb1.www.ms.akadns.net', 'corp.sts.microsoft.com',
                             'az361816.vo.msecnd.net', 'az512334.vo.msecnd.net', 'telemetry.microsoft.com',
                             'msntest.serving-sys.com', 'secure.flashtalking.com', 'telemetry.appex.bing.net',
-                            'pre.footprintpredict.com', 'pre.footprintpredict.com', 'vortex.data.microsoft.com',
+                            'pre.footprintpredict.com', 'vortex.data.microsoft.com',
                             'statsfe2.ws.microsoft.com', 'statsfe1.ws.microsoft.com', 'df.telemetry.microsoft.com',
                             'oca.telemetry.microsoft.com', 'sqm.telemetry.microsoft.com', 'telemetry.urs.microsoft.com',
                             'survey.watson.microsoft.com', 'compatexchange.cloudapp.net', 'feedback.microsoft-hohm.com',
